@@ -1,4 +1,4 @@
-# -Global-Cybersecurity-Threats-2015-2024-SQL
+# USING SQL
 A comprehensive dataset tracking cybersecurity incidents, attack vectors, threat
 # 🛡️ Global Cybersecurity Threats Analysis (2015-2024)
 
@@ -218,19 +218,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors & Acknowledgments
 
-- **Your Name** - *Initial work* - [@yourgithub](https://github.com/yourgithub)
+- **SELLO KGOLE** - *Initial work* - [@sello-bot](https://github.com/sello-bot)
 
-### 🙏 Acknowledgments
+ ## 🙏 Acknowledgments
 - Kaggle community for dataset curation
 - Cybersecurity research community
 - Open source contributors
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: sellokgole6@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/cybersecurity-threats-analysis/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/cybersecurity-threats-analysis/discussions)
-- 📱 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/sello-bot/cybersecurity-threats-analysis/discussions)
+- 📱 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/sello-kgole-ba450a295/)
 
 ## 🔄 Recent Updates
 
