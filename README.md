@@ -53,7 +53,7 @@ IPython (for Kaggle notebooks)
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/cybersecurity-threats-analysis.git
+git clone https://github.com/sello-bot/cybersecurity-threats-analysis.git
 cd cybersecurity-threats-analysis
 ```
 
