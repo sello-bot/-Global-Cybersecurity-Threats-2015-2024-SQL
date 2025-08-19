@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📧 **Email**: sellokgole6@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/cybersecurity-threats-analysis/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/sello-bot/cybersecurity-threats-analysis/discussions)
-- 📱 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/sello-kgole-ba450a295/)
+- 📱 **LinkedIn**: [Sello Kgole](https://www.linkedin.com/in/sello-kgole-ba450a295/)
 
 ## 🔄 Recent Updates
 
